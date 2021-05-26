@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": "",
+      "name": "Priyank",
+      "email": "Priyank@gmail.com"
+    },
+    {
+      "id": "",
+      "name": "Rohit",
+      "email": "Rohit@gmail.com"
+    },
+    {
+      "id": "06478356-9a5b-4280-be5c-f4cc81ec04a0",
+      "name": "max",
+      "email": "max@gmail.com"
+    },
+    {
+      "id": "83324c87-a9f0-4115-804a-588d0110fb05",
+      "name": "mat",
+      "email": "mat@gmail.com"
+    },
+    {
+      "id": "d6daf857-23d8-447d-a540-c0220bd8aca1",
+      "name": "Bhuvan Bam",
+      "email": "bam@explamle.com"
+    },
+    {
+      "id": "36222307-7019-45fa-a1c7-342bd74b7a63",
+      "name": "dccw",
+      "email": "priyank@osyte.com"
+    },
+    {
+      "id": "9a6dd840-776f-4e20-925a-abd73423fde8",
+      "name": "rose",
+      "email": "rose@gmail.com"
+    }
+  ]
+}
